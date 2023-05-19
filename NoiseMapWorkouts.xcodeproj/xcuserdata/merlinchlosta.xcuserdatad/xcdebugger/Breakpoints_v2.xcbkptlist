@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A45A7F3-A591-4735-A818-35CA2CC1BCDB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E921A2C9-DA40-4E53-A6A9-B5FAB8ACC317"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Models/Workouts/WorkoutListManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "example()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E921A2C9-DA40-4E53-A6A9-B5FAB8ACC317 - b88757ac9776d675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static NoiseMapWorkouts.WorkoutListManager.example() -&gt; NoiseMapWorkouts.WorkoutListManager"
+                  moduleName = "NoiseMapWorkouts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merlinchlosta/NoiseMapWorkouts/NoiseMapWorkouts/Models/Workouts/WorkoutListManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "E921A2C9-DA40-4E53-A6A9-B5FAB8ACC317 - b88757ac9776d675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static NoiseMapWorkouts.WorkoutListManager.example() -&gt; NoiseMapWorkouts.WorkoutListManager"
+                  moduleName = "NoiseMapWorkouts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merlinchlosta/NoiseMapWorkouts/NoiseMapWorkouts/Models/Workouts/WorkoutListManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "701269B8-BBB9-445B-BB25-F0FF55664AA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Models/HKManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "requestAuthorization(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE78F0CD-3A03-4094-A468-61F161D33435"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79FE8AC0-BE30-4FC3-9D31-565BE416BDE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "plotData"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6800A99E-02FF-42A5-A23A-C470CBA27B61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Models/Workouts/Workout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "levelExposure"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A9AAF09-1248-4A7D-B997-3143D7B9A81C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BB88865-5F2B-4ABE-A94B-83BAD2C742A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0BB88865-5F2B-4ABE-A94B-83BAD2C742A1 - aa1299fc60633f59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoiseMapWorkouts.ExposureBarView.body.getter : some"
+                  moduleName = "NoiseMapWorkouts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merlinchlosta/NoiseMapWorkouts/NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "0BB88865-5F2B-4ABE-A94B-83BAD2C742A1 - 8c992b537385b322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NoiseMapWorkouts.PlotLevelExposure) -&gt; &lt;&lt;opaque return type of Charts.ChartContent.foregroundStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in NoiseMapWorkouts.ExposureBarView.body.getter : some"
+                  moduleName = "NoiseMapWorkouts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merlinchlosta/NoiseMapWorkouts/NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3B0E5A5-47B9-476F-ADB8-02D0BB520408"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "plotData"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6790DB4-B86B-43BC-ABC2-0D6D8F97F6BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "plotData"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BC2F005-B62C-4205-99F8-2BE107982388"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Views/WorkoutListView/Graphs/ExposureBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "plotData"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECB6CE70-D104-45D0-831C-259E4FCC53F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoiseMapWorkouts/Models/Workouts/Workout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "dataQuality"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ECB6CE70-D104-45D0-831C-259E4FCC53F6 - 81e6c95cbc3e5d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoiseMapWorkouts.Workout.dataQuality.getter : NoiseMapWorkouts.WorkoutDataQuality"
+                  moduleName = "NoiseMapWorkouts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merlinchlosta/NoiseMapWorkouts/NoiseMapWorkouts/Models/Workouts/Workout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "ECB6CE70-D104-45D0-831C-259E4FCC53F6 - 81e6c95cbc3e5d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoiseMapWorkouts.Workout.dataQuality.getter : NoiseMapWorkouts.WorkoutDataQuality"
+                  moduleName = "NoiseMapWorkouts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merlinchlosta/NoiseMapWorkouts/NoiseMapWorkouts/Models/Workouts/Workout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

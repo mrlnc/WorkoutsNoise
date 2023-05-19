@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NoiseMapWorkouts
+
+  Created by Merlin Chlosta on 19.05.23.
+  
+*/
+
+"select_one_category" = "Select at least one workout category.";
+"measurements_impaired" = "Noise measurements work best for walking workouts. When running or cycling, the measurements might be impaired by e.g. airstream or rattling.";

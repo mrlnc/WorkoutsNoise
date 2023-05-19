@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  WorkoutsNoise
+
+  Created by Merlin Chlosta on 19.05.23.
+  
+*/
+
+"select_one_category" = "Wähle mindestens eine Workout-Kategorie.";
+"measurements_impaired" = "Geräuschmessungen funktionieren am besten bei Spaziergängen. Beim Laufen oder Fahrradfahren kann z.B. der Fahrtwind die Messungen verfälschen.";
+"display workouts %lld" = "Zeige %lld Workouts an";
+
+"welcome_to" = "Willkommen bei";
+"welcome_bullet_1_title" = "Identifiziere laute Orte";
+"welcome_bullet_1_text" = "WorkoutsNoise zeigt dir eine persönliche Lärmkarte und hilft dir, laute Orte zu identifizieren.";
+
+"welcome_bullet_2_title" = "Automatische Messungen mit Apple Watch";
+"welcome_bullet_2_text" = "Apple Watch zeichnet den Geräuschpegel in deiner Umgebung auf. Wenn du Workouts machst, wird die Strecke gespeichert.";
+
+"welcome_bullet_3_title" = "Auswertung mit WorkoutsNoise";
+"welcome_bullet_3_text" = "WorkoutsNoise kombiniert die Messungen und zeigt dir den Geräuschpegel auf deinen Workout-Strecken an.";
+
+"welcome_display_noise" = "WorkoutsNoise zeigt die Geräuschbelastung auf einer Karte an, um laute Orte zu identifizieren.";
+
+"save_to_csv" = "Als CSV exportieren";
+"export_warning" = "Datenexport z.B. für weitere Analysen. Die Daten werden als reguläre Datei im gewählten Speicherort hinterlegt. Der Export ist für die Funktionalität der App nicht nötig.";
+"display_limit" = "Display-Limit";
+
+"dataquality_missing_location" = "Kein Workout-Pfad gefunden.";
+"dataquality_missing_noise" = "Keine Geräuschmessungen";
+"dataquality_missing_both" = "Weder Pfad noch Geräuschmessungen gefunden.";
+"dataquality_ok" = "";
+
+"restore_default_settings" = "Filter zurücksetzen";
+
+"scrollbar_title" = "Geräuschpegel bei Workouts";
+
+"limit" = "Limit";
+"Time" = "Zeit";
+
+"noise_spl" = "Geräuschpegel [dBA SPL]";
+"exposure_min" = "Dauer [min]";
+
+"permissions_title" = "Berechtigungen";
+
+"exposure_time" = "Dauer";
+
+"continue" = "Weiter";
+
+"permissions_title_1" = "Zugang zur Health App und Workouts";
+"permissions_text_1" = "Wir benötigen deine Zustimmung, um Geräuschmessungen und Workouts aus der Health App zu lesen.";
+
+"permissions_title_2" = "Deine Daten bleiben auf deinem Smartphone";
+"permissions_text_2" = "Die Daten werden nicht übertragen oder gespeichert. Alles bleibt lokal auf deinem Gerät.";
